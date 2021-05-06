@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tebengan-test/static/css/main.edfc90e2.chunk.css",
+    "main.js": "/tebengan-test/static/js/main.8cf6e48b.chunk.js",
+    "main.js.map": "/tebengan-test/static/js/main.8cf6e48b.chunk.js.map",
+    "runtime-main.js": "/tebengan-test/static/js/runtime-main.a5286d29.js",
+    "runtime-main.js.map": "/tebengan-test/static/js/runtime-main.a5286d29.js.map",
+    "static/js/2.88e5449e.chunk.js": "/tebengan-test/static/js/2.88e5449e.chunk.js",
+    "static/js/2.88e5449e.chunk.js.map": "/tebengan-test/static/js/2.88e5449e.chunk.js.map",
+    "static/js/3.b7f68c51.chunk.js": "/tebengan-test/static/js/3.b7f68c51.chunk.js",
+    "static/js/3.b7f68c51.chunk.js.map": "/tebengan-test/static/js/3.b7f68c51.chunk.js.map",
+    "index.html": "/tebengan-test/index.html",
+    "static/css/main.edfc90e2.chunk.css.map": "/tebengan-test/static/css/main.edfc90e2.chunk.css.map",
+    "static/js/2.88e5449e.chunk.js.LICENSE.txt": "/tebengan-test/static/js/2.88e5449e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tebengan-test/static/media/logo.6ce24c58.svg",
+    "static/media/profilepicture.a9136072.png": "/tebengan-test/static/media/profilepicture.a9136072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5286d29.js",
+    "static/js/2.88e5449e.chunk.js",
+    "static/css/main.edfc90e2.chunk.css",
+    "static/js/main.8cf6e48b.chunk.js"
+  ]
+}
